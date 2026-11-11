@@ -14,6 +14,10 @@ Technological Hurdles in the creation of SSTOS
 Drawbacks of an SSTO, and existed and potential alternatives
 Current Progress and Attempts, as well as future innovations into SSTO technology, as technology enhances  
 .</p>
+<script>
+  async function getLastUpdatedTime() {
+    const username =  'To00658'
+    const repo = 'T';
 
 </body>
 </html>
