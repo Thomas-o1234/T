@@ -1,12 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>HTML Elements Reference</title>
+  <title>Economic and Performance viabiltiy of SSTO's</title>
 </head>
 <body>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<h1>Are SSTOs the future, or are they held down by technology restrictions</h1>
+<p>In my research project I will discuss how commercial space travel can be simplified and made more economically viable using Single Stage to Orbit rockets, or its acronym, SSTO. I will explain:
+What an SSTO is
+Benefits of and SSTO
+Maths and Engineering behind SSTOS, and what technology can improve ISP of engines. 
+Technological Hurdles in the creation of SSTOS
+Drawbacks of an SSTO, and existed and potential alternatives
+Current Progress and Attempts, as well as future innovations into SSTO technology, as technology enhances  
+.</p>
 
 </body>
 </html>
